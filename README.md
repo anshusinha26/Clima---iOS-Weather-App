@@ -10,7 +10,7 @@ Clima is a beautiful weather app built for iOS that displays real-time weather c
 ![Light Mode](Clima/light_mode_screenshot.png)
 
 ### Dark Mode:
-![Dark Mode](path/to/dark_mode_screenshot.png)
+![Dark Mode](Clima/dark_mode_screenshot.png)
 
 ---
 
