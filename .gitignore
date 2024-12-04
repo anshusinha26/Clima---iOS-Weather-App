@@ -1,0 +1,18 @@
+# Exclude Secrets.plist
+Clima/Secrets.plist
+
+# Xcode specific
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# Build artifacts
+build/
+*.app
+*.ipa
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
